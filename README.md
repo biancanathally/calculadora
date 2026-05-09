@@ -10,15 +10,15 @@ Este é um projeto simples de uma calculadora com interface gráfica (GUI) desen
 
 Para correres este projeto, apenas precisas de ter o **Python 3** instalado no teu computador. A biblioteca `tkinter` já vem instalada por defeito na maioria das distribuições de Python.
 
-## 🔧 Como Correr o Projeto
+## 🔧 Como rodar o projeto
 
-1. **Clonar ou Copiar o Código:**
-   Cria um ficheiro no teu computador chamado `calculadora.py` e cola o código da calculadora dentro dele.
+1. **Clonar ou copiar o código:**
+   Cria um ficheiro no seu computador chamado `calculadora.py` e cola o código da calculadora dentro dele.
 
-2. **Abrir o Terminal:**
+2. **Abrir o terminal:**
    Navega até à pasta onde guardaste o ficheiro.
 
-3. **Executar o Programa:**
+3. **Executar o programa:**
    Digita o seguinte comando no terminal (ou linha de comandos):
 
    ```bash
