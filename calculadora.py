@@ -16,8 +16,21 @@ def limpar_display():
 
 
 def calcular():
-    # Aqui você vai chamar a operação correta
-    pass
+    expressao = display.get()
+
+    try:
+        resultado = eval(expressao)
+
+        display.delete(0, tk.END)
+        display.insert(tk.END, str(resultado))
+
+    except ZeroDivisionError:
+        display.delete(0, tk.END)
+        display.insert(tk.END, "Erro: divisão por 0")
+
+    except:
+        display.delete(0, tk.END)
+        display.insert(tk.END, "Erro")
 
 
 # -------------------------
@@ -131,9 +144,9 @@ btn_igual = tk.Button(
 )
 
 btn_igual.grid(
-    row=4,
+    row=5,
     column=0,
-    columnspan=3,
+    columnspan=4,
     sticky="nsew",
     padx=2,
     pady=2
