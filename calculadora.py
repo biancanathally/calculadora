@@ -46,7 +46,7 @@ def subtrair():
 
 
 def multiplicar():
-    pass
+    adicionar_no_display("*")
 
 
 def dividir():
