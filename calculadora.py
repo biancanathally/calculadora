@@ -50,7 +50,7 @@ def multiplicar():
 
 
 def dividir():
-    pass
+    adicionar_no_display('/')
 
 
 # -------------------------
