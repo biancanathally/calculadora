@@ -1,4 +1,4 @@
-# Calculadora Python (1-4)
+# Calculadora Python
 
 Este é um projeto simples de uma calculadora com interface gráfica (GUI) desenvolvida em Python utilizando a biblioteca **Tkinter**. A calculadora segue um design clássico de botões em grelha, mas está configurada para trabalhar especificamente com os números **1, 2, 3 e 4**.
 
