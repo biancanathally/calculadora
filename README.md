@@ -1,6 +1,8 @@
 # Calculadora Python
 
-Este é um projeto simples de uma calculadora com interface gráfica (GUI) desenvolvida em Python utilizando a biblioteca **Tkinter**. A calculadora segue um design clássico de botões em grelha, mas está configurada para trabalhar especificamente com os números **1, 2, 3 e 4**.
+Projeto para disciplina de **Fundamentos de Testes Ágeis** da Especialização Lato Sensu em Testes Ágeis, no CESAR School.
+
+Calculadora com interface gráfica (GUI) desenvolvida em Python utilizando a biblioteca **Tkinter**. A calculadora segue um design clássico de botões em grelha, mas está configurada para trabalhar especificamente com os números **1, 2, 3 e 4**.
 
 ## 🚀 Funcionalidades
 
